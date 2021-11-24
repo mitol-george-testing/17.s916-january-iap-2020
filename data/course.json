@@ -1,0 +1,27 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ba2d6af0-5732-1628-5240-0083b3896ddb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "All the President's Generals: Civil-Military Relations in the US and Beyond",
+  "course_description": "This course introduces the unique characteristics of militaries and explores the roles they play in the societies they are constructed to defend, with a special focus on the relationships between the military and their civilian leaders and popular publics. Topics include a modern history of relations between US presidents and the military, coups and military governments, public trust in the military, racial integration of the military, and the military-industrial (and tech!) complex.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.S916",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
